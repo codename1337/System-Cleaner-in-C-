@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562855241 source:c:\users\ravi\documents\c++ programs\rccleaner\rccleaner\main.cpp
+	<iostream>
+	<stdlib.h>
+
